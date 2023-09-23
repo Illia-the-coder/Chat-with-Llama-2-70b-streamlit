@@ -3,7 +3,7 @@
 
 This repository contains a Streamlit application that allows users to interact with the Llama 2-70b Chatbot model from Hugging Face. The application provides a user-friendly interface to chat with the model and adjust certain parameters to influence the model's responses.
 
-![Chat with Llama 2-70b Screenshot](screenshot.png) *Replace with an actual screenshot of your app if available.*
+
 
 ## Features
 
